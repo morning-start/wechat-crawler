@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=3.0.0",
     "fake-useragent>=2.2.0",
     "pydantic>=2.12.5",
+    "tqdm>=4.67.3",
 ]
 
 [[tool.uv.index]]
